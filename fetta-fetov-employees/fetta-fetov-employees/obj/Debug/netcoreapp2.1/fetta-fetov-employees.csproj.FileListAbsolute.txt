@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\bin\Debug\netcoreapp2.1\fetta-fetov-employees.deps.json
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\bin\Debug\netcoreapp2.1\fetta-fetov-employees.runtimeconfig.json
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\bin\Debug\netcoreapp2.1\fetta-fetov-employees.runtimeconfig.dev.json
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\bin\Debug\netcoreapp2.1\fetta-fetov-employees.dll
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\bin\Debug\netcoreapp2.1\fetta-fetov-employees.pdb
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\obj\Debug\netcoreapp2.1\fetta-fetov-employees.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\obj\Debug\netcoreapp2.1\fetta-fetov-employees.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\obj\Debug\netcoreapp2.1\fetta-fetov-employees.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\obj\Debug\netcoreapp2.1\fetta-fetov-employees.AssemblyInfo.cs
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\obj\Debug\netcoreapp2.1\fetta-fetov-employees.dll
+C:\Users\dell\source\repos\fetta-fetov-employees\fetta-fetov-employees\obj\Debug\netcoreapp2.1\fetta-fetov-employees.pdb
